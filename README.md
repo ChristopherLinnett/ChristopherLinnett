@@ -1,4 +1,4 @@
-# Welcome To My Doc
+# Welcome To My Profile
 
 👋 Hi, I’m [@ChristopherLinnett](https://github.com/ChristopherLinnett)
 
@@ -10,25 +10,25 @@ I'm a recent graduate from Griffith University in Gold Coast Australia. I enjoy 
 
 - 🌱 What I've Worked With:
   -  Javascript/Typescript
-    - Angular
-    - React
-      -  Redux State Management
-    - React Native
-      -  Mobx State Management
-    - Ionic/Capacitor
-    - NodeJs
+      - Angular
+      - React
+        -  Redux State Management
+      - React Native
+          -  Mobx State Management
+      - Ionic/Capacitor
+      - NodeJs
   -  Dart
-    -  Flutter
-      -  Riverpod State Management
+      -  Flutter
+          -  Riverpod State Management
   - Swift
-    -  SwiftUI
+      -  SwiftUI
   - Python
   -  Databasing
-    -  SQL
-    -  MongoDB
+      -  SQL
+      -  MongoDB
   -  Cloud Services
-    -  AWS
-    -  Firebase
+      -  AWS
+      -  Firebase
 
 ## Current
 
